@@ -1,0 +1,10 @@
+{
+  "Profiles": [
+    {
+      "Name": "Min testuppställning",
+      "Type": "Static",
+      "IPAddress": "192.168.10.50",
+      "PrefixLength": 24
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "InterfaceName": "Ethernet",
+  "ProfilesConfigPaths": [
+    "profiles_global.json",
+    "%APPDATA%\\Natverkshanteraren\\profiles_user.json"
+  ],
+  "LogEnabled": true,
+  "LogPath": "%ProgramData%\\Natverkshanteraren\\natverkshanteraren.log",
+  "DefaultProfile": {
+    "Name": "Standard (DHCP)",
+    "Type": "DHCP"
+  }
+}
